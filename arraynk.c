@@ -2,7 +2,7 @@
 void main()
 {
     int i,a,b,sum=0;
-    int array[10];
+    int array[5];
     printf("enter the size of array");
     scanf("%d",&a);
     printf("how many value do you want to find");
